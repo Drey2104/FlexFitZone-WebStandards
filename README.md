@@ -6,7 +6,6 @@ Integrantes:
 - Andrey Arthur Ramos de Oliveira
 - Anderson Sarzi
 - Eliane Epifanio
-- Rafael Vieira
 - Vanessa Canella
 
 Acesse nosso Instagram: [@flex_fit_zone
